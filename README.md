@@ -15,11 +15,13 @@ A **Computer Engineering Student** 🚀 from Maharashtra, India. <img src="https
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-c-0D1117?style=flat&logo=c)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Data Science](https://img.shields.io/badge/-DS-0D1117)&nbsp;
+
 
 ## 📫 &nbsp;My Contacts
 [![LinkedIn Badge](https://img.shields.io/badge/-Bhavesh_Kolhe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavesh-kolhe)](https://www.linkedin.com/in/bhavesh-kolhe)&nbsp;
