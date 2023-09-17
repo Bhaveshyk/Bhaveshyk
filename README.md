@@ -2,7 +2,7 @@
    <h1>Hi there, I'm Bhavesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-A **Computer Engineering** 🚀 from Maharashtra, India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+A **Computer Engineer** 🚀 from Maharashtra, India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ## 🧭 &nbsp;About Me
 - 💼 I’m pursuing a PG in Big Data Analytics.
 - 💬 Ask me about **technology**.
