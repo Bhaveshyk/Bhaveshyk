@@ -35,7 +35,7 @@ A **Computer Engineer** 🚀 from Maharashtra, India. <img src="https://media.gi
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau&logoColor=A8B9CC)\
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=ffffff)
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 
